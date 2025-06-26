@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 const JUDGE0_URL =
-  'https://judge0-extra-ce.p.rapidapi.com/submissions?base64_encoded=false&wait=true';
+  'URL';
 const API_KEY = process.env.JUDGE0_API_KEY;
 const API_HOST = process.env.JUDGE0_API_HOST;
 
