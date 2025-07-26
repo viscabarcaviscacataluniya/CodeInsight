@@ -73,5 +73,3 @@ Open your browser and go to: [http://localhost:5173](http://localhost:5173)
 
 
 ✨ **Explore, learn, and visualize algorithms like never before with CodeInsight!**
-
-```
