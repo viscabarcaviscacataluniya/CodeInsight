@@ -1,9 +1,6 @@
-Here's the **exact** clean, professional `README.md` you can copy and paste directly - no placeholders, no extra files needed, perfectly formatted:
-
-```markdown
 # CodeInsight
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 An interactive platform for visualizing algorithms and executing code in real-time.
 
@@ -18,39 +15,28 @@ An interactive platform for visualizing algorithms and executing code in real-ti
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/codeinsight.git
+git clone https://github.com/pravinmorabagi/codeinsight.git
 cd codeinsight
-```
+Install dependencies:
 
-2. Install dependencies:
-```sh
+sh
 npm install
-```
+Start the development server:
 
-3. Start the development server:
-```sh
+sh
 npm run dev
-```
+The application will be available at http://localhost:3000
 
-The application will be available at `http://localhost:3000`
+Tech Stack
+Framework: React + TypeScript
 
-## Tech Stack
+Build Tool: Vite
 
-- **Framework**: React + TypeScript
-- **Build Tool**: Vite
-- **UI Components**: shadcn/ui
-- **Styling**: Tailwind CSS
-- **Code Editor**: Monaco Editor
+UI Components: shadcn/ui
 
-## License
+Styling: Tailwind CSS
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+Code Editor: Monaco Editor
 
-### Key Improvements:
-1. **Consistent Formatting**: No mixed styles or placeholders
-2. **Complete Sections**: All essential information included
-3. **Ready-to-Use**: Directly copy-pasteable without modifications
-4. **Professional Appearance**: Clean badge and markdown structure
-
-Just replace `yourusername` with your actual GitHub username when you paste this into your project. The LICENSE link will work automatically if you have the file in your repo.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
