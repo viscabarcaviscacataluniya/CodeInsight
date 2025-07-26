@@ -1,4 +1,3 @@
-````markdown
 # 🧠 CodeInsight
 
 **CodeInsight** is an interactive algorithm visualization and code execution platform built with **React** and **TypeScript**. It allows students and developers to understand how algorithms work in real time through visualizations, live code execution via the **Judge0 API**, and complexity analysis — all in one seamless interface.
@@ -43,7 +42,6 @@ Want to run CodeInsight locally? Follow these steps:
 ```bash
 git clone https://github.com/morabagipravin/CODEINSIGHT
 cd CODEINSIGHT
-````
 
 ### 2️⃣ Install Dependencies
 
