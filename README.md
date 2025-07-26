@@ -1,7 +1,13 @@
+Here’s the **final version** of both `README.md` and `LICENSE` files combined in a single block. You can copy and paste them directly into your project:
+
+---
+
+### **README.md**
+
 ````markdown
 # CodeInsight
 
-CodeInsight is an interactive platform for algorithm visualization and code execution. It helps developers and students visualize algorithm steps, analyze code complexity, and learn through real-time execution and visualizations.
+CodeInsight is an interactive platform for algorithm visualization and code execution. It helps developers and students understand the inner workings of algorithms, analyze code complexity, and learn effectively through real-time execution and visualizations.
 
 ---
 
@@ -29,9 +35,9 @@ npm run dev
 
 ## 🧰 Tech Stack
 
-* **Vite** – Fast build tool
-* **TypeScript** – Static typing
-* **React** – Component-based UI
+* **Vite** – Fast and modern build tool
+* **TypeScript** – Static typing and improved code quality
+* **React** – Component-based UI library
 * **shadcn-ui** – Accessible UI components
 * **Tailwind CSS** – Utility-first CSS framework
 
@@ -48,7 +54,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-You can deploy this project on:
+You can deploy this project using:
 
 * **Vercel**
 * **Netlify**
@@ -65,20 +71,29 @@ You can deploy this project on:
 ## 🤝 Contributing
 
 Contributions are welcome!
+Follow these steps to contribute:
 
-* **Fork** this repository.
-* Create a **new branch** for your feature or bug fix.
-* **Commit** and push your changes.
-* Submit a **pull request**.
+1. **Fork** this repository.
+2. **Create** a new branch for your feature/bug fix.
+3. **Commit** your changes.
+4. **Push** your branch.
+5. **Submit** a pull request.
 
 ---
 
-## 📜 License (MIT)
+## 📜 License
 
-```
+This project is licensed under the [MIT License](./LICENSE).
+
+````
+
+---
+
+### **LICENSE**
+```text
 MIT License
 
-Copyright (c) 2025 <Your Name>
+Copyright (c) 2025 Pravin Morabagi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -97,11 +112,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
-
----
-
-```
-
-Would you like me to **insert your name (Pravin Morabagi)** into the MIT License so you can copy it directly without edits?
-```
+````
