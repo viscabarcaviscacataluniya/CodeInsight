@@ -42,6 +42,7 @@ Want to run CodeInsight locally? Follow these steps:
 ```bash
 git clone https://github.com/morabagipravin/CODEINSIGHT
 cd CODEINSIGHT
+```
 
 ### 2️⃣ Install Dependencies
 
