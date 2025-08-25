@@ -47,9 +47,12 @@ npm install
 3️⃣ Configure Environment
 Create a .env.local file in the root and add your Judge0 API credentials:
 VITE_JUDGE0_API_HOST=your_host_url
+
 VITE_JUDGE0_API_KEY=your_api_key
+
 4️⃣ Run the App
 npm run dev
+
 5️⃣ Open in Browser
 👉 http://localhost:5173
 
