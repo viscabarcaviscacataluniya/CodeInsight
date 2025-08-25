@@ -56,7 +56,7 @@ Gain intuition that sticks longer than rote memorization.
 Here’s how you can set it up locally:
 
 1️⃣ Clone the Repo
-git clone https://github.com/morabagipravin/CODEINSIGHT
+git clone https://github.com/viscabarcaviscacataluniya/CodeInsight
 cd CODEINSIGHT
 
 2️⃣ Install Dependencies
