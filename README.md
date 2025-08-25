@@ -1,75 +1,103 @@
-# 🧠 CodeInsight
+🧠 CodeInsight
 
-**CodeInsight** is an interactive algorithm visualization and code execution platform built with **React** and **TypeScript**. It allows students and developers to understand how algorithms work in real time through visualizations, live code execution via the **Judge0 API**, and complexity analysis — all in one seamless interface.
+CodeInsight is your interactive playground for learning, running, and visualizing algorithms in real time.
+Built with ❤️ using React + TypeScript, it helps students, developers, and interview-prep warriors truly “see” how algorithms work — through live visualizations, instant code execution, and step-by-step complexity breakdowns.
 
----
+Think of it as your personal algorithm mentor that never gets tired.
 
-## 🛠️ Technologies Used
+🚀 Why CodeInsight?
 
-- **React + TypeScript**: For building scalable, type-safe frontends.
-- **Tailwind CSS + shadcn/ui**: For modern, responsive UI components.
-- **Judge0 API**: Executes code and captures outputs in real time.
-- **D3.js / react-force-graph**: For dynamic graph-based visualizations.
-- **Vite**: For lightning-fast development build tooling.
+Learning algorithms from plain text can feel… dry.
+With CodeInsight, you don’t just read algorithms — you experience them:
 
----
+🎥 Watch algorithms unfold step by step with interactive visualizations.
 
-## ✨ Features
+💻 Write and execute code directly in the browser using Judge0 API.
 
-- 📊 **Algorithm Visualizations**  
-  Graph-based rendering for algorithms like Prim’s, Kruskal’s, Dijkstra’s, BFS, and DFS.
+📊 Get complexity analysis at a glance — time, space, everything.
 
-- 💻 **Code Execution**  
-  Run code instantly using Judge0 with syntax validation and live output.
+⚡ See real-time feedback as your code changes.
 
-- 🧮 **Complexity Analysis**  
-  View time and space complexity for supported algorithms.
+🧩 Extend the platform by easily adding your own algorithms.
 
-- ⚡ **Live Feedback**  
-  Real-time editor updates with instant visualization refresh.
+Whether you’re preparing for FAANG/MAANG interviews, teaching a class, or simply sharpening your DSA skills — CodeInsight makes algorithms click.
 
-- 🧩 **Extensible Design**  
-  Easily add new algorithms via plug-and-play architecture.
+🛠️ Tech Behind the Magic
 
----
+React + TypeScript → Scalable, type-safe frontend foundation.
 
-## 🚀 Getting Started
+Tailwind CSS + shadcn/ui → Modern, minimal UI design system.
 
-Want to run CodeInsight locally? Follow these steps:
+Judge0 API → Run code live, get outputs instantly.
 
-### 1️⃣ Clone the Repository
+D3.js / react-force-graph → Smooth, interactive graph visualizations.
 
-```bash
+Vite → Blazing-fast builds and hot reloads.
+
+✨ What You Can Do
+
+📊 Visualize Algorithms
+Understand BFS, DFS, Dijkstra, Kruskal, Prim, and more through interactive graphs.
+
+💻 Run Code in Real Time
+Test your logic instantly — no setup, no hassle.
+
+🧮 Check Complexities
+See the time & space complexity for each algorithm.
+
+🧩 Customize & Extend
+Add new algorithms without breaking the existing flow.
+
+🎯 Perfect for Learners & Interview Prep
+Gain intuition that sticks longer than rote memorization.
+
+⚡ Getting Started
+
+Here’s how you can set it up locally:
+
+1️⃣ Clone the Repo
 git clone https://github.com/morabagipravin/CODEINSIGHT
 cd CODEINSIGHT
-```
 
-### 2️⃣ Install Dependencies
-
-```bash
+2️⃣ Install Dependencies
 npm install
-```
 
-### 3️⃣ Set Up Environment Variables
+3️⃣ Configure Environment
 
-Create a `.env.local` file and add your Judge0 API credentials:
+Create a .env.local file in the root and add your Judge0 API credentials:
 
-```env
 VITE_JUDGE0_API_HOST=your_host_url
 VITE_JUDGE0_API_KEY=your_api_key
-```
 
-### 4️⃣ Start the Development Server
-
-```bash
+4️⃣ Run the App
 npm run dev
-```
 
-### 5️⃣ View the App
+5️⃣ Open in Browser
 
-Open your browser and go to: [http://localhost:5173](http://localhost:5173)
+👉 http://localhost:5173
 
----
+🌍 Roadmap
 
+✅ Core algorithm visualizations
+✅ Judge0 integration for code execution
+🚧 More algorithm coverage (sorting, DP, greedy)
+🚧 Multi-language support (Python, C++, Java, etc.)
+🚧 Collaboration features (shareable sessions, classrooms)
 
-✨ **Explore, learn, and visualize algorithms like never before with CodeInsight!**
+🤝 Contributing
+
+We welcome contributors! 💡
+If you’ve got an idea for a new feature or algorithm, feel free to:
+
+Fork the repo
+
+Create a branch (feature/new-algorithm)
+
+Submit a PR
+
+📜 License
+
+MIT License — free to use, free to build upon.
+
+✨ CodeInsight isn’t just a tool. It’s your algorithm coach.
+Stop reading algorithms. Start experiencing them.
